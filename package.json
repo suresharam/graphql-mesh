@@ -1,0 +1,17 @@
+{
+  "name": "graphql-mesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.87.9",
+    "@graphql-mesh/openapi": "^0.95.6",
+    "graphql": "^16.8.1"
+  }
+}
